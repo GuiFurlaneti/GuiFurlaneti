@@ -1,4 +1,4 @@
-[]<h1 align="center">👋 Olá, eu sou o Gui Furlaneti</h1>
+<h1 align="center">👋 Olá, eu sou o Gui Furlaneti</h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b><br/>
