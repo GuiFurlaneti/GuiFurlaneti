@@ -1,16 +1,14 @@
-<h1 align="center">👋 Olá, eu sou o Gui Furlaneti</h1>
+<h1 align="center"> Guilherme Furlaneti</h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b><br/>
-  💻 HTML · CSS · JavaScript · React · Next.js · Node.js · MySQL<br/>
+  💻 C# · ASP.NET Core (.NET) · React · Node.js<br/>
   🎯 Foco em aplicações modernas, responsivas e funcionais
 </p>
 
 ---
 
 ## 🧠 Tecnologias
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
