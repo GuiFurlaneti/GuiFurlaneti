@@ -1,8 +1,8 @@
-## Oi, eu sou o Guilherme 👋
+# Guilherme Furlaneti
 
-Desenvolvedor Backend em transição de carreira, focado em **C# e .NET**.
-Estou cursando Análise e Desenvolvimento de Sistemas na UNICID (4º semestre)
-e buscando minha primeira oportunidade formal como desenvolvedor.
+**Desenvolvedor Backend Jr.**
+💻 C# · ASP.NET Core (.NET) · SQL Server · API REST
+🎯 Focado em desenvolvimento backend com C# e .NET
 
 ---
 
