@@ -1,30 +1,45 @@
-<h1 align="center"> Guilherme Furlaneti</h1>
+## Oi, eu sou o Guilherme 👋
 
-<p align="center">
-  <b>Desenvolvedor Full Stack</b><br/>
-  💻 C# · ASP.NET Core (.NET) · React · Node.js<br/>
-  🎯 Foco em aplicações modernas, responsivas e funcionais
-</p>
+Desenvolvedor Backend em transição de carreira, focado em **C# e .NET**.
+Estou cursando Análise e Desenvolvimento de Sistemas na UNICID (4º semestre)
+e buscando minha primeira oportunidade formal como desenvolvedor.
 
 ---
 
-## 🧠 Tecnologias
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+### 🛠️ Stack principal
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiFurlaneti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFurlaneti&layout=compact&langs_count=8&theme=github_dark"/>
-</p>
+### 📂 Projetos em destaque
+
+**[Sistema de Cotação — Transportes Aéreos](link-do-repo)**
+Backend em C# e .NET integrado ao site institucional. Permite cotação online com
+integração via jQuery e Ajax.
+
+**[Plataforma de Reservas de Espaços](link-do-repo)**
+Sistema com painel para proprietários e usuários finais. UI/UX completo no Figma,
+backend em C# e .NET.
+
+**[Site Institucional — Classe A Panfletagem](link-do-repo)**
+Construído do zero com HTML, CSS e JavaScript puros. Entregue para empresa real,
+com análise competitiva e proposta comercial.
+
+---
+
+### 📚 Atualmente estudando
+- Entity Framework Core
+- API REST com ASP.NET Core
+- Clean Architecture em .NET
+
+---
+
+### 📫 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gui-furlaneti)
