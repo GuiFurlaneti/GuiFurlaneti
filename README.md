@@ -1,8 +1,8 @@
 # Guilherme Furlaneti
 
-**Desenvolvedor Backend | C# · .NET · APIs REST · SQL**
+**Desenvolvedor Full Stack | React · Node.js · APIs REST · PostgreSQL**
 
-Estudante de Análise e Desenvolvimento de Sistemas na UNICID (conclusão prevista em 2027), em busca da primeira oportunidade como Desenvolvedor Backend Júnior. São Paulo, SP.
+Estudante de Análise e Desenvolvimento de Sistemas na UNICID (conclusão prevista em 2027), em busca da primeira oportunidade como Desenvolvedor Full Stack Júnior. São Paulo, SP.
 
 ## Experiência prática
 
@@ -12,7 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na UNICID (conclusão previs
 - PostgreSQL com PostGIS para dados geográficos das campanhas
 - Frontend em React (PWA)
 
-O código é privado. A apresentação técnica está no [ShowcaseCampin](https://github.com/GuiFurlaneti/ShowcaseCampin).
+O código é privado. Documentação técnica: [ShowcaseCampin](https://github.com/GuiFurlaneti/ShowcaseCampin) · [Case completo em PDF](https://github.com/GuiFurlaneti/ShowcaseCampin/blob/main/docs/Campin_Case_Tecnico_PUBLICO_2026.pdf)
 
 ## Projetos
 
